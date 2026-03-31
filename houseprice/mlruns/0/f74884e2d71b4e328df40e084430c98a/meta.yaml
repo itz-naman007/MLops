@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/f74884e2d71b4e328df40e084430c98a/artifacts
+end_time: 1774955579775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f74884e2d71b4e328df40e084430c98a
+run_name: enthused-fowl-309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774955421026
+status: 4
+tags: []
+user_id: naman

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/dfad50500e6f40319ff55cf788c51508/artifacts
+end_time: 1774955843246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfad50500e6f40319ff55cf788c51508
+run_name: brawny-carp-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774955651809
+status: 3
+tags: []
+user_id: naman
